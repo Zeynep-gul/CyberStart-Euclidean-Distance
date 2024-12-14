@@ -6,7 +6,9 @@ This Python project calculates the minimum Euclidean distance between points in 
 ### Features
 Computes the Euclidean distance for all point pairs in a given list.
 Finds and displays the minimum distance and the corresponding pair of points.
-** Euclidean Distance Formula: **
+
+**Euclidean Distance Formula:**
+
 $$
 d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 $$
